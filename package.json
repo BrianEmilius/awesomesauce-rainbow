@@ -1,5 +1,5 @@
 {
-  "name": "rainbow-log-with-avengence",
+  "name": "@emilius/rainbow-log-with-avengence",
   "version": "1.0.0",
   "description": "Creates a colourful console log",
   "main": "index.js",
