@@ -1,0 +1,25 @@
+{
+  "name": "rainbow-log-with-avengence",
+  "version": "1.0.0",
+  "description": "Creates a colourful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianEmilius/awesomesauce-rainbow.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colours",
+    "colors"
+  ],
+  "author": "Brian Emilius <brian@brianemilius.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianEmilius/awesomesauce-rainbow/issues"
+  },
+  "homepage": "https://github.com/BrianEmilius/awesomesauce-rainbow#readme"
+}
